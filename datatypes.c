@@ -1,3 +1,4 @@
+//datatypes
 #include<stdio.h>
  int main()
 {
@@ -18,4 +19,5 @@
 	printf("d=%ld\n",d);
 	printf("e=%f\n",e);
 	printf("f=%lf\n",f);
+
 }
